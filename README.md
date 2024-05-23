@@ -2,6 +2,8 @@
 
 A simple project to understand the basics of creating a flutter application
 
+![Screenshot 2024-05-23 234846](https://github.com/GisoreB/hello_app/assets/144854877/432f6b1d-3d6c-45d6-8b39-effc5f4b8484)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
