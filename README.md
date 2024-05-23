@@ -1,4 +1,4 @@
-![Screenshot 2024-05-23 231457](https://github.com/GisoreB/hello_app/assets/144854877/d3505ef3-15d1-4a95-a569-0001b6f7b272)# hello_app
+# hello_app
 
 A simple project to understand the basics of creating a flutter application
 
