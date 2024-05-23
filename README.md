@@ -1,4 +1,4 @@
-# hello_app
+![Screenshot 2024-05-23 231457](https://github.com/GisoreB/hello_app/assets/144854877/d3505ef3-15d1-4a95-a569-0001b6f7b272)# hello_app
 
 A simple project to understand the basics of creating a flutter application
 
@@ -34,5 +34,7 @@ Various components of the structure of the application are explained here:
 * #### **README.md** − Project description file written in Markdown format
 
 
+
 ## screenshots
 
+![Screenshot 2024-05-23 231457](https://github.com/GisoreB/hello_app/assets/144854877/6f95049c-7982-43d3-b53f-61e930613a8c)
